@@ -1,0 +1,11 @@
+area,floors,material,paint,woodwork,tiles,total_cost
+1000,1,normal,1,1,1,2000000
+1200,1,normal,0,1,0,1800000
+1500,2,premium,1,1,1,4500000
+1800,1,normal,1,0,1,2900000
+900,1,premium,0,1,0,2200000
+2000,2,normal,1,1,1,5000000
+1300,1,premium,1,1,0,3000000
+1100,1,normal,1,0,1,2200000
+1400,2,premium,1,1,1,4800000
+1600,1,normal,0,1,0,2700000
